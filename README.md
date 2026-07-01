@@ -4,7 +4,7 @@
 **Matrícula:** 2023-1981  
 **Asignatura:** Seguridad en Redes
 
-📹 Video: (https://youtu.be/e-4W9xGcuUI)
+📹 Video: https://youtu.be/e-4W9xGcuUI
 
 ## Descripción
 
@@ -32,7 +32,7 @@ Establecer una conexión VPN Site-To-Site segura entre dos redes LAN separadas g
 - IOL2 (Switch LAN B)
 - webterm-2 (Host LAN B)
 
-![Topología VPN Site-To-Site](https://github.com/TUUSUARIO/VPN-Site-To-Site/blob/main/VPN_Site-To-Site_Fortigate.png)
+![Topología VPN Site-To-Site](https://github.com/jburgoshiciano-source/VPN-Site-To-Site-Fortigate/blob/6ff7396c67caebe3181ded6ebab032387317fc03/VPN%20Site-To-Site%20Fortigate.png)
 
 ## Direccionamiento
 
